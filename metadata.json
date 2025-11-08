@@ -1,0 +1,5 @@
+{
+  "name": "File Name Customizer",
+  "description": "A powerful tool to rename files in bulk with ease. It offers various customization options like character removal, case changes, adding prefixes/suffixes, and more, with a real-time preview and ZIP download functionality.",
+  "requestFramePermissions": []
+}
